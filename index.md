@@ -1,5 +1,5 @@
 <div class="form-style-6">
-<h2>contact-me</h2>	
+<h1>contact-me</h1>	
 <form action="https://send.pageclip.co/hgy1FpCTEIMqZJhTG1cLnidPVUaRVGji" class="pageclip-form" method="post">
   <input type="text" name="name" placeholder="Name" />
   <input type="email" name="email" placeholder="Email" />
